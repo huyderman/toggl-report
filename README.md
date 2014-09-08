@@ -1,7 +1,7 @@
 Toggl-Report
 ===========================================================================
 
-This is a simple tool created to export from [Toggl](http://www.toggl.com]
+This is a simple tool created to export from [Toggl](http://www.toggl.com)
 a weekly summary report of total hours spent per task each day. It was
 created for personal use, and is only intended to cover a single use-case;
 mine.
